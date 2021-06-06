@@ -1,0 +1,2 @@
+apispec[yaml]>=1.0.0
+Flask-RESTful
